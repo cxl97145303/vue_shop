@@ -8,6 +8,11 @@
 <script>
 
 export default {
+  data() {
+    return {
+      
+    }
+  },
   name: 'app'
 }
 </script>
