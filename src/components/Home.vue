@@ -101,10 +101,10 @@ export default {
     background-color: #373d41;
     display: flex;
     justify-content: space-between;
-    padding-left: 0px;
+    padding-left: 10px;
     align-items: center;
     color: #fff;
-    font-size: 20px;
+    font-size: 22px;
     > div {
         display: flex;
         align-items: center;
@@ -116,7 +116,7 @@ export default {
 .el-aside {
     background-color: #333744;
     .el-menu {
-        border: 0px;
+        border-right: none;
     }
 }
 .el-main {
